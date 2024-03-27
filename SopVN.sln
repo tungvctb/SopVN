@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SopVN", "SopVN\SopVN.csproj", "{24A5FF06-C30A-419B-B802-FD2D5D684A95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SopVN_API", "SopVN_API\SopVN_API.csproj", "{D66DCBD8-465A-4FB0-8FE3-B7EC061BB6E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24A5FF06-C30A-419B-B802-FD2D5D684A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A5FF06-C30A-419B-B802-FD2D5D684A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A5FF06-C30A-419B-B802-FD2D5D684A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A5FF06-C30A-419B-B802-FD2D5D684A95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D66DCBD8-465A-4FB0-8FE3-B7EC061BB6E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66DCBD8-465A-4FB0-8FE3-B7EC061BB6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66DCBD8-465A-4FB0-8FE3-B7EC061BB6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66DCBD8-465A-4FB0-8FE3-B7EC061BB6E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A048487-E714-4F5E-8C17-951341FD597A}
+	EndGlobalSection
+EndGlobal
